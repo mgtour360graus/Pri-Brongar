@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" appversion="7.1.10" start="node1" apprev="21009">
+  <panorama id="node1">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-155.672" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17558986" nodeid="node1" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="-155.672" latitude="-32.11392134" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-353.86" url="{node2}" distance="4.96282" tilt="-3.56" id="Point01" target="18.8/-8.1/103.8" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-140.678" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17560328" nodeid="node2" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="-140.678" latitude="-32.11396450" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-180.56" url="{node1}" distance="4.96282" tilt="0.32" id="Point01" target="-156.0/0.0/100.0" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-106.36" url="{node3}" distance="4.23503" tilt="0.75" id="Point02" target="52.0/0.0/126.6" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-265.98" url="{node12}" distance="3.68191" tilt="0.9" id="Point03" target="-136.0/0.0/117.0" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-339.2" url="{node13}" distance="3.8775" tilt="-1.47" id="Point04" target="172.0/0.0/136.9" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-307.03" url="{node17}" distance="2.07499" tilt="-1.14" id="Point05" target="-145.8/1.7/117.8" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="171.125" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17556036" nodeid="node3" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="171.125" latitude="-32.11397586" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-179.13" url="{node2}" distance="4.23503" tilt="0.34" id="Point01" target="89.0/0.0/100.0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-183.151" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17563680" nodeid="node12" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="-183.151" latitude="-32.11394746" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-287.72" url="{node2}" distance="3.68191" tilt="-0.97" id="Point01" target="-53.0/0.0/126.6" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="26.5251" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17560830" nodeid="node17" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="26.5251" latitude="-32.11398267" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-325.13" url="{node2}" distance="2.07499" tilt="-3.09" id="Point01" target="172.0/0.0/136.9" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-157.25" url="{node14}" distance="3.52089" tilt="-2.87" id="Point02" target="-140.0/0.0/100.0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="49.8304" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17563613" nodeid="node13" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="49.8304" latitude="-32.11398552" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-3.65" url="{node2}" distance="3.8775" tilt="0.54" id="Point01" target="164.0/0.0/136.9" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-129.32" url="{node14}" distance="3.1425" tilt="-3.2" id="Point02" target="-136.0/0.0/148.1" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="58.2957" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17562339" nodeid="node14" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="58.2957" latitude="-32.11401164" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-296.57" url="{node13}" distance="3.1425" tilt="-2.07" id="Point01" target="-3.0/0.0/126.6" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-23.44" url="{node15}" distance="1.93815" tilt="-4.73" id="Point02" target="-2.0/0.0/108.2" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-179.41" url="{node16}" distance="2.17043" tilt="-0.13" id="Point03" target="-81.0/0.0/126.6" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-318.73" url="{node17}" distance="3.52089" tilt="-3.3" id="Point04" target="5.8/-3.3/108.2" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="102.202" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17560328" nodeid="node15" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="102.202" latitude="-32.11401534" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-130.86" url="{node14}" distance="1.93815" tilt="-6.26" id="Point01" target="143.0/0.0/117.0" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-359.2" url="{node4}" distance="2.47812" tilt="7.87" id="Point02" target="179.8/3.2/136.9" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="3000" levelingroll="-0.61881900000000001" levelingpitch="0.166377" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="190.533" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17564619" nodeid="node16" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="190.533" latitude="-32.11401448" tags="Novapasta" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-234.93" url="{node14}" distance="2.17043" tilt="-3.02" id="Point01" target="0.0/0.0/126.6" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="13.6976" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17560629" nodeid="node4" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="13.6976" latitude="-32.11403748" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-357.14" url="{node15}" distance="2.47812" tilt="-34.8" id="Point01" target="-172.4/6.2/117.0" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-302.48" url="{node5}" distance="1.14069" tilt="-5.31" id="Point02" target="26.0/0.0/100.0" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="191.03" url="{node6}" distance="2.02372" tilt="0" id="Point03" target="$fwd" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-28.8741" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17561836" nodeid="node5" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="-28.8741" latitude="-32.11403663" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-175.52" url="{node4}" distance="1.14069" tilt="-4.52" id="Point01" target="-104.0/0.0/126.6" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-103.66" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17560729" nodeid="node6" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="-103.66" latitude="-32.11405566" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-319.1" url="{node7}" distance="3.50012" tilt="-2.45" id="Point01" target="-16.2/-2.6/136.9" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-204.48" url="{node10}" distance="3.32297" tilt="-1.51" id="Point02" target="-45.0/0.0/126.6" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-106.327" url="{node4}" distance="2.02372" tilt="0" id="Point03" target="$fwd" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="174.603" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17561400" nodeid="node7" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="174.603" latitude="-32.11408662" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-205.9" url="{node6}" distance="3.50012" tilt="-3.44" id="Point01" target="-110.0/0.0/100.0" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-71.38" url="{node8}" distance="1.15716" tilt="-8.08" id="Point02" target="16.0/0.0/117.0" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-291.64" url="{node9}" distance="1.46452" tilt="-7.49" id="Point03" target="12.0/0.0/126.6" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-81.7253" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17561937" nodeid="node8" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="-81.7253" latitude="-32.11409598" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-152.12" url="{node7}" distance="1.15716" tilt="-6.84" id="Point01" target="114.3/-5.5/117.0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="127.298" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17559858" nodeid="node9" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="127.298" latitude="-32.11408832" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-163.53" url="{node7}" distance="1.46452" tilt="-7.12" id="Point01" target="-133.0/0.0/117.0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="225.036" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17557310" nodeid="node10" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="225.036" latitude="-32.11406304" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-43" url="{node6}" distance="3.32297" tilt="-3.66" id="Point01" target="56.6/-1.3/117.8" description=""/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-158.1" url="{node11}" distance="1.41157" tilt="-10.15" id="Point02" target="174.0/-0.1/126.6" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="3000" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="3000" levelbias="0.400" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="3000" width="3000" predecode="0"/>
+      <level preload="0" height="1500" width="1500" predecode="0"/>
+      <level preload="0" height="750" width="750" predecode="0"/>
+      <level preload="1" height="375" width="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="3.09039" fovmode="2">
+      <start projection="4" fov="100" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fov="140" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" title="Pri Brongar | Espaço de Beleza&#xa;" longitude="-52.17557042" nodeid="node11" customnodeid="" author="" datetime="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" source="" heading="3.09039" latitude="-32.11405055" tags="2" comment=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" textalpha="1" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" background="1" borderradius="1" wordwrap="1" enabled="1" width="180" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1"/>
+      <hotspot skinid="ht_node" title="Pri Brongar | Espaço de Beleza&#xa;" pan="-329.22" url="{node10}" distance="1.41157" tilt="-7.55" id="Point01" target="15.0/0.0/126.6" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomafterinfov="140" zoomfov="40" softedge="0" type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomout="0" zoomafteroutfov="40" delay="none" blendtime="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control rubberband="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertcontrol="1" simulatemass="1" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" dblclickfullscreen="0" hideabout="0" zoomcentercursor="1" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Pri Brongar | Espaço de Beleza&lt;/p>&#xa;&lt;div>" author="" description="Pri Brongar | Espaço de Beleza&#xa;" copyright="" tags="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
